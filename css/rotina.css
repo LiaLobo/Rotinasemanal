@@ -1,0 +1,64 @@
+* {
+    background: #FFDA54;
+    overflow-x: hidden;
+}
+
+#cabeça {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 25pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h1 {
+    margin: 5px;
+}
+
+#dias {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    width: 50%;
+}
+
+#day5 {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 18pt;
+}
+
+li {
+    font-size: 14pt;
+    list-style-type: none;
+}
+
+#pé {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13pt;
+    text-align: center;
+    margin-top: 9%;
+    margin-bottom: 0%;
+}
+
+.insta {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+a {
+    text-decoration: none;
+    text-decoration-color: black;
+    color: black;
+}
